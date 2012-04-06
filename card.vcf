@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Address Book 6.1//EN
+N:Doe;John;;;
+FN:John Doe
+ORG:Business;
+X-ABUID:15A833CD-B92B-4EC1-B0E3-ED91B894A8C0:ABPerson
+END:VCARD
