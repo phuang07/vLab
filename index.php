@@ -6,6 +6,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 
 	<head>
+		<link rel="shortcut icon" href="resources/img/el/favicon.ico">
 	
 		<meta charset="utf-8">
 		
