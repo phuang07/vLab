@@ -1,8 +1,19 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//Address Book 6.1//EN
-N:Doe;John;;;
-FN:John Doe
-ORG:Business;
-X-ABUID:15A833CD-B92B-4EC1-B0E3-ED91B894A8C0:ABPerson
+N:Does;John;;;
+FN:John Does
+ORG:Enlightenment Lab;
+EMAIL;type=INTERNET;type=WORK;type=pref:ray@enlightenment-lab.com
+TEL;type=WORK;type=VOICE;type=pref:917-714-6742
+item1.URL;type=pref:www.enlightenment-lab.com
+item1.X-ABLabel:_$!<HomePage>!$_
+X-AIM;type=WORK;type=pref:leoman730
+X-MSN;type=WORK;type=pref:leoman730
+IMPP;X-SERVICE-TYPE=GoogleTalk;type=WORK;type=pref:xmpp:leoman730
+IMPP;X-SERVICE-TYPE=MSN;type=WORK:msnim:leoman730
+IMPP;X-SERVICE-TYPE=AIM;type=WORK:aim:leoman730
+CATEGORIES:card
+UID:0c40c073-ad5a-42e7-8d37-1cf8606048db
+X-ABUID:545C8D05-61BD-49B5-8425-96F6C0EAED17:ABPerson
 END:VCARD
