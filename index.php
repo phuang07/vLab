@@ -13,7 +13,7 @@
 		     More info: h5bp.com/b/378 -->
 		<!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
 		
-		<title>Ray. H vCard</title>
+		<title>Enlightenment Lab</title>
 		
 		<!-- CSS: implied media=all -->
 		<!-- CSS concatenated and minified via ant build script-->
