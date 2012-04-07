@@ -86,8 +86,8 @@ $colorStr = $colorArr[$ram];
 												<p>	I have 6 years experiences in both front/back end web development. 
 													Spciallizing in all stages of web development cycle such as Requirments gathering, 
 													PSD to HTML, Implementation, Test and Deployment.</p>
-												<p> I also speciallizing the following technologies: PHP, Ruby on Rail, html/css (also html5/css3),
-													Javascript/Jquery/Extjs, Photoshop, Drupal, Wordpress and eCommerce.</p>
+												<p> I also speciallizing the following technologies: php, ruby on rail, html/css (also html5/css3),
+													javascript/jquery/extjs, photoshop, drupal, wordpress and eCommerce.</p>
 												<p> If you want to hire me, I'd love to get in touch with you and discuss details of your project.</p>	
 												
 												<h3>My skills</h3>
@@ -119,6 +119,10 @@ $colorStr = $colorArr[$ram];
 													<li class="clearfix">
 														<div class="skill-bar-8"></div>
 														<div class="skill-label">Ruby on Rails</div>
+													</li>
+													<li class="clearfix">
+														<div class="skill-bar-8"></div>
+														<div class="skill-label">Java/C++</div>
 													</li>
 												</ul>
 												<h3>Former jobs</h3>
