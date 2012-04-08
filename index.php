@@ -89,7 +89,8 @@ $colorStr = $colorArr[$ram];
 												<p> I also speciallizing the following technologies: php, ruby on rail, html/css (also html5/css3),
 													javascript/jquery/extjs, photoshop, drupal, wordpress and eCommerce.</p>
 												<p> If you want to hire me, I'd love to get in touch with you and discuss details of your project.</p>	
-												
+												<h3>Education</h3>
+												<p>B.S. Computer Science</p>
 												<h3>My skills</h3>
 												<ul class="skills">
 													<li class="clearfix">
